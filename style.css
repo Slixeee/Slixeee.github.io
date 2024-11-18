@@ -4,11 +4,11 @@ body{
 
 
 h1 {text-align: center;}
-p {text-align: center;
+p {text-align: left;
     color: aqua;
     font-family: sans-serif;
     font-weight: bolder;}
-div {text-align: center;}
+div {text-align: left;}
 img {
     display: block;
     margin-left: auto;
